@@ -3,6 +3,9 @@
     .button-div{
         margin-bottom: 15%;
     }
+    .home-content{
+        margin-left: 22%;
+    }
 }
 @media screen and (max-width:767px){
    
