@@ -1,0 +1,17 @@
+.button-watch{
+    border:1px solid #92140c;
+    padding:11px;
+    border-radius: 5px;
+    background-color: #92140c;
+    width:auto;
+}
+.button-div{
+    margin-left: 25%;
+    margin-top: 12%;
+}
+.button-div a{
+    color:#fff;
+}
+.button-div a:hover{
+    color:#fff;
+}
