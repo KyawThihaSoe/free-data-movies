@@ -3333,7 +3333,7 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
    user-select: none;
    margin-left: 30px;
    width:100%;
-   font-size: 95%;
+   font-size: 200%;
 }
 .sign__btn {
   display: flex;
