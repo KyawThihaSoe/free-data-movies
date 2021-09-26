@@ -134,11 +134,20 @@ ul {
   color: #fff;
   border: solid 1px #92140c;
   background-color: #92140c;
-  padding:7px;
+  padding:4px;
+  font-size: 12px;
   border-radius: 50px;
 }
 .read-color:hover{
   color:#fff;
+}
+.head-text span{
+  color:#fff;
+  font-size: 13px;
+}
+.head-text{
+  margin-left: 73%;
+  margin-bottom: 14px;
 }
 .fade {
   -webkit-transition: opacity 0.25s linear;
@@ -686,7 +695,7 @@ ul {
 	Home
 ==============================*/
 .home {
-  margin-top: 10px;
+  margin-top: 70px;
   position: relative;
   display: block;
   background-color: #2b2b31;
@@ -3331,16 +3340,9 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   -moz-user-select: none;
   -moz-user-select: none;
    user-select: none;
-   margin-left: 40px;
-   margin-top: 25px;
+   margin-left: 30px;
+   width:100%;
    font-size: 150%;
-}
-.row span{
-  color:#fff;
-  margin-top: 10%;
-  margin-left: 73%;
-  font-size: 11px;
-  margin-bottom: 12px;
 }
 .sign__btn {
   display: flex;
