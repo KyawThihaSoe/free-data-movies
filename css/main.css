@@ -3332,8 +3332,15 @@ html:not([dir="rtl"]) .noUi-horizontal .noUi-handle {
   -moz-user-select: none;
    user-select: none;
    margin-left: 40px;
-   margin-top: 22px;
+   margin-top: 25px;
    font-size: 150%;
+}
+.row span{
+  color:#fff;
+  margin-top: 10%;
+  margin-left: 73%;
+  font-size: 11px;
+  margin-bottom: 12px;
 }
 .sign__btn {
   display: flex;
