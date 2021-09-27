@@ -22,3 +22,11 @@
     background-color: #92140c;
     width:auto;
 }
+.button-button a{
+    color:#fff;
+}
+.button-button{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
