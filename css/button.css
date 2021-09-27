@@ -26,7 +26,15 @@
     color:#fff;
 }
 .button-button{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
+    text-align: center;
+    margin-top: 15px;
+}
+.button-button .Next{
+    margin-left: 25px;
+}
+.button-button .page-button {
+    border: 1px solid #92140c;
+    background-color: #92140c;
+    padding:11px;
+    border-radius: 2px;
 }
